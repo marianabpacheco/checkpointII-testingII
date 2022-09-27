@@ -1,0 +1,6 @@
+Pages\TransferFundsPage.class
+Pages\NewAccountPage.class
+Pages\RegisterPage.class
+Pages\AccountsOverviewPage.class
+Base\BasePage.class
+Pages\AccountActivityPage.class
